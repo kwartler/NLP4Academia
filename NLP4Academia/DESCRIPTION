@@ -1,0 +1,19 @@
+Package: NLP4Academia
+Type: Package
+Title: Data and convenience functions for NLP Class
+Version: 0.1.0
+Author: Ted Kwartler
+Maintainer: Ted Kwartler <edwardkwartler@fas.harvard.edu>
+Description: This package makes loading data used in class easy.  In addition, there are convenience functions wrapping many common processing workflows.
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    ggplot2,
+    ggthemes,
+    plotrix,
+    stringi,
+    stringr,
+    tm,
+    viridisLite,
+    R (>= 2.10)
+RoxygenNote: 7.0.0
